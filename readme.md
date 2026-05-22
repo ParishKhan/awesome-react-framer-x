@@ -175,7 +175,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 -   [How to learn React.js in 2019](https://www.robinwieruch.de/learn-react-js/) - How to learn React is high on the agenda for plenty of JavaScript developers for this year. The recent [State of JS](https://2018.stateofjs.com/front-end-frameworks/overview/) survey has shown that many developers are content with React for creating modern web applications. - Article by [Robin Wieruch](https://www.robinwieruch.de/). Jan 1, 2018.
 -   [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/react-native) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 -   [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - React terms in plain English and doodles.
 -   [Build with React - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
 -   [React Tutorial for Beginners](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
